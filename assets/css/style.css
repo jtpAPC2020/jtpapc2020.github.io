@@ -362,13 +362,13 @@ h6 {
 }
 
 #hero .hero-img {
-  width: 50%;
+  width: 100%;
   float: right;
 }
 
 @media (max-width: 991px) {
   #hero .hero-img {
-    width: 80%;
+    width: 100%;
     float: none;
     margin: 0 auto 25px auto;
   }
@@ -428,8 +428,8 @@ h6 {
 }
 
 #hero .hero-info .btn-get-started {
-  background: #99BA52;
-  border: 2px solid #99BA52;
+  background: #602167;
+  border: 2px solid #602167;
   color: #fff;
 }
 
@@ -444,8 +444,8 @@ h6 {
 }
 
 #hero .hero-info .btn-services:hover {
-  background: #803283;
-  border-color: #803283;
+  background: #99BA52;
+  border-color: #99BA52;
   color: #fff;
 }
 
